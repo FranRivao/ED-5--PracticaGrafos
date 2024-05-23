@@ -1,0 +1,60 @@
+
+Ή
+java:S13191"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(©γπυψÿÿÿÿ8Άησ«τ1J$b89bd708-02d8-4c04-9e9b-075c196ae90f
+Ή
+java:S13193"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ΎξΛÿÿÿÿÿ8Άησ«τ1J$a310a807-80d3-4ef6-88bd-a710cf0da3b5
+Ή
+java:S1319<"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ΣΙΗςώÿÿÿÿ8Άησ«τ1J$400a8119-3897-4d58-9ce1-5d08ef9e023f
+Δ
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤ϊ£8Άησ«τ1J$a053c564-4f73-4379-a442-d4b55fd82946
+Ι
+java:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ΚΜθ°ψÿÿÿÿ8Άησ«τ1J$ae344a19-fa12-4165-93b5-8fb0bd2cd661
+Ι
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²αήηώÿÿÿÿ8Άησ«τ1J$a54d89b7-def0-4adb-8b98-73773eb98364
+Ι
+java:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(΄””ήωÿÿÿÿ8Άησ«τ1J$1c9cb950-8541-4e2b-9dda-9e4a38c9a74c
+Δ
+java:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ίβ³Ω8Άησ«τ1J$ad85c3b0-164c-4030-b1e6-e7e6fa0e6cbb
+Ι
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(―Α„ωÿÿÿÿ8Άησ«τ1J$d4150731-135c-47da-b59c-721e2090dff7
+z
+java:S1135"2Complete the task associated to this TODO comment.(…€ΰύϋÿÿÿÿ8±ησ«τ1J$f76396d5-8240-4923-932e-85e5d969daf8
+t
+java:S1135"2Complete the task associated to this TODO comment.(¥ΰ•Z8±ησ«τ1J$cedc1972-cb6d-4c79-9e1d-48644456ce90
+p
+java:S1172"-Remove this unused method parameter "parada".(®«Π8±ησ«τ1J$8f3b42e5-229f-41de-9fc7-b89ad9cb3190
+u
+java:S1135"2Complete the task associated to this TODO comment.(Υ‚ΐ¶8±ησ«τ1J$0fa3a10a-5898-46ad-bd9b-7a6f36eb4e9c
+u
+java:S1135 "2Complete the task associated to this TODO comment.(Υ‚ΐ¶8±ησ«τ1J$9a591876-4d43-47a1-91e1-63132888a1a5
+u
+java:S1135)"2Complete the task associated to this TODO comment.(―¤¥8±ησ«τ1J$e808c378-7147-4286-8e44-e49f0a4b5d24
+u
+java:S1135+"2Complete the task associated to this TODO comment.(Κ–8±ησ«τ1J$1eaa76e6-95a3-4426-875e-4aa8cbbf4515
+u
+java:S11721"-Remove this unused method parameter "parada".(©γπυψÿÿÿÿ8±ησ«τ1J$7f5a3977-2ee9-4c18-b09e-43619ce51a08
+z
+java:S11350"2Complete the task associated to this TODO comment.(‡μεÿÿÿÿÿ8±ησ«τ1J$358c9907-e3b6-46c8-b7cd-ff1966dbdd96
+z
+java:S11352"2Complete the task associated to this TODO comment.(‡μεÿÿÿÿÿ8±ησ«τ1J$bc9d2add-d498-4267-bd8f-b681cf306110
+z
+java:S11354"2Complete the task associated to this TODO comment.(½χ§ύÿÿÿÿ8±ησ«τ1J$d2a4bcfe-50f4-463c-8421-79b528b0c70c
+ƒ
+java:S1172<";Remove these unused method parameters "parada1", "parada2".(ΣΙΗςώÿÿÿÿ8±ησ«τ1J$b8c4449b-3d08-4081-a94c-7b3a754b2685
+~	java:S1259"<This block of commented-out lines of code should be removed.(—ΣΊ›8±ησ«τ1J$4a4854e3-738b-43b2-a607-458e28c2b7d2
+u
+java:S11356"2Complete the task associated to this TODO comment.(Π…λύ8±ησ«τ1J$64c457a3-2887-43a2-a64f-c76d53721971
+u
+java:S1135;"2Complete the task associated to this TODO comment.(Π…λύ8±ησ«τ1J$adcf2caf-8a7f-4080-9df1-bc9bc798c1a3
+z
+java:S1135>"2Complete the task associated to this TODO comment.(έΆύÿÿÿÿ8±ησ«τ1J$f28a2eda-f3c2-4947-a01a-b646e24c341d
+t
+java:S1135@"2Complete the task associated to this TODO comment.(·8±ησ«τ1J$4c593b4c-2d18-4124-9869-e1a59786fa63
+t
+java:S1135B"2Complete the task associated to this TODO comment.(·8±ησ«τ1J$e14a204d-79ea-4674-ac52-b4c307723ad3
+y
+java:S1172E"1Remove these unused method parameters "p1", "p2".(ν•‘ςÿÿÿÿÿ8±ησ«τ1J$6601b40c-b2a4-49d6-940c-c21f5ff2a653
+z
+java:S1135D"2Complete the task associated to this TODO comment.(£Ή΄ώÿÿÿÿ8±ησ«τ1J$733775b0-b491-4201-96af-f614e4acd789
+u
+java:S1144A"2Remove this unused private "hacerDirigido" method.(Ίβ³Ω8±ησ«τ1J$e91d1be8-10e7-49b9-a13c-bd885951d3ed

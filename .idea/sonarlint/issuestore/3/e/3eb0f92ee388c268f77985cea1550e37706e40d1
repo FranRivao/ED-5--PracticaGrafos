@@ -1,0 +1,31 @@
+
+m
+java:S11921"PDefine a constant instead of duplicating this literal "Plaza ElÃ­ptica" 3 times.(÷Áº¨8Èà¶¨ò1
+m
+java:S1192/"KDefine a constant instead of duplicating this literal "Planetario" 3 times.(ğÓÒûÿÿÿÿ8Èà¶¨ò1
+C
+java:S1170"!Make this final field static too.(ã•èşÿÿÿÿ8×à¶¨ò1
+L	java:S106"+Replace this use of System.out by a logger.(ã•èşÿÿÿÿ8¤Èµ¨ò1
+o	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èû›ıÿÿÿÿ8×à¶¨ò1
+L	java:S1064"+Replace this use of System.out by a logger.(ŸÏŒÿÿÿÿÿ8¤Èµ¨ò1
+G	java:S1065"+Replace this use of System.out by a logger.(Àš’Å8¤Èµ¨ò1
+L	java:S1066"+Replace this use of System.out by a logger.(Ìò›ÿÿÿÿÿ8¤Èµ¨ò1
+L	java:S106G"+Replace this use of System.out by a logger.(ãƒ¥ùÿÿÿÿ8¤Èµ¨ò1
+L	java:S106Z"+Replace this use of System.out by a logger.(ô›³ùÿÿÿÿ8¤Èµ¨ò1
+L	java:S106["+Replace this use of System.out by a logger.(ø¾°Ñüÿÿÿÿ8¤Èµ¨ò1
+j	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ä¼±8×à¶¨ò1
+G	java:S106i"+Replace this use of System.out by a logger.(ÄË×™8¤Èµ¨ò1
+L	java:S106j"+Replace this use of System.out by a logger.(ú‰Û¸øÿÿÿÿ8¤Èµ¨ò1
+L	java:S106m"+Replace this use of System.out by a logger.(ÆöÂüÿÿÿÿ8×à¶¨ò1
+L	java:S106p"+Replace this use of System.out by a logger.(Äûşÿÿÿÿ8×à¶¨ò1
+L	java:S106r"+Replace this use of System.out by a logger.(ş’©øÿÿÿÿ8×à¶¨ò1
+L	java:S106u"+Replace this use of System.out by a logger.(Û“Êşÿÿÿÿ8×à¶¨ò1
+o	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²şöşÿÿÿÿ8ºîÿ¦ò1
+H	java:S106’"+Replace this use of System.out by a logger.(§áŸŞ8×à¶¨ò1
+H	java:S106“"+Replace this use of System.out by a logger.(¨µ¤Ë8×à¶¨ò1
+H	java:S106”"+Replace this use of System.out by a logger.(¨©˜î8×à¶¨ò1
+M	java:S106•"+Replace this use of System.out by a logger.(ùÁ£Ïüÿÿÿÿ8×à¶¨ò1
+M	java:S106–"+Replace this use of System.out by a logger.(ŸÏŒÿÿÿÿÿ8×à¶¨ò1
+M	java:S106—"+Replace this use of System.out by a logger.(Ã®¥¤ÿÿÿÿÿ8×à¶¨ò1
+M	java:S106"+Replace this use of System.out by a logger.(“¹½¯úÿÿÿÿ8×à¶¨ò1
+H	java:S106Ÿ"+Replace this use of System.out by a logger.(³üÌ¡8×à¶¨ò1

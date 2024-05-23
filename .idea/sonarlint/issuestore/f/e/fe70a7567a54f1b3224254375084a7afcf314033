@@ -1,0 +1,48 @@
+
+¨
+java:S1192z"`Define a constant instead of duplicating this literal "    0  1  2  3  4  5  6  7  8 
+" 3 times.(©ê¾‚ùÿÿÿÿ8„Üò¨ô1J$8b496812-cb7c-4c84-ac1d-d163527fd8db
+£
+java:S1192"`Define a constant instead of duplicating this literal " 4  F  F  F  F  F  T  F  T  F 
+" 3 times.(¹ê¼‘8„Üò¨ô1J$ebb0d072-c943-4101-aaed-217a49967d58
+¤
+java:S1192‚"`Define a constant instead of duplicating this literal " 7  F  F  T  T  T  F  F  F  T 
+" 3 times.(ßÏÎ8…Üò¨ô1J$cf5d58cc-a206-4d6c-a01e-57070682a57f
+«
+java:S1192;"iDefine a constant instead of duplicating this literal "Falla: Ejercicio 3 | Obras entre paradas" 3 times.(Ç¤¹:8›¾‘ªô1J$53e7a811-b410-4d33-9dd0-37b8e40d90c3
+§
+java:S1192x"dDefine a constant instead of duplicating this literal "El grafo tiene una Matriz de 9 x 9
+" 3 times.(å•˜8…Üò¨ô1J$bc4db7f9-d381-4825-a550-4abf1ec5d11a
+¤
+java:S1192€"`Define a constant instead of duplicating this literal " 5  F  F  F  T  T  F  F  F  F 
+" 3 times.(”äªí8…Üò¨ô1J$2d6b3cad-77a2-4258-8ab6-8b61cca1a4ac
+¨
+java:S1192{"`Define a constant instead of duplicating this literal " 0  F  T  F  T  F  F  F  F  F 
+" 3 times.(¹ÌÂÉşÿÿÿÿ8…Üò¨ô1J$2f150101-07e6-432a-a50f-8c0e8368b91c
+£
+java:S1192}"`Define a constant instead of duplicating this literal " 2  F  T  F  F  F  F  F  T  F 
+" 3 times.(éŒáâ8…Üò¨ô1J$749d0404-6ba1-42da-81ec-5f0b74125047
+¤
+java:S1192"`Define a constant instead of duplicating this literal " 6  F  F  F  T  F  F  F  F  F 
+" 3 times.(êšÇ¤8…Üò¨ô1J$7008f91c-09e0-4289-9555-90523072ffd5
+©
+java:S1192ƒ"`Define a constant instead of duplicating this literal " 8  F  F  F  F  F  F  F  T  F 
+" 3 times.(ßæúÿÿÿÿ8…Üò¨ô1J$c37e11ce-e62b-44d6-9d68-0bc96a223a1d
+
+java:S11924"VDefine a constant instead of duplicating this literal "De un grafo dirigido
+" 3 times.(ĞŒÒ‘ùÿÿÿÿ8…Üò¨ô1J$03c9f67c-dae3-4710-81d9-cd05dca61dce
+i
+java:S1170"!Make this final field static too.(ã•èşÿÿÿÿ8É¹ñ¨ô1J$546ea465-ec6a-4a5d-96a2-adce0496ef44
+r	java:S106"+Replace this use of System.out by a logger.(ã•èşÿÿÿÿ8Ù¹ñ¨ô1J$4e8694d1-3697-4ab6-a94b-0640557ae688
+r	java:S106B"+Replace this use of System.out by a logger.(İÑ‰Îúÿÿÿÿ8Ù¹ñ¨ô1J$fae9e5a7-0985-405f-841a-cf70a1bc59c7
+m	java:S106C"+Replace this use of System.out by a logger.(‚ûÛ§8Ù¹ñ¨ô1J$d5065b2a-a118-4555-853e-8e3d7760892b
+	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€”„˜8À÷‹ªô1J$7f33dbb9-4a14-46e1-a512-da4054ad9461
+•	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎäÆşÿÿÿÿ8Ù¹ñ¨ô1J$e9182f39-3f14-4614-a97a-32ba4e4c23c8
+n	java:S106¤"+Replace this use of System.out by a logger.(§áŸŞ8Ù¹ñ¨ô1J$5c5d4514-52ce-4e18-8e8a-65242fb03283
+n	java:S106¥"+Replace this use of System.out by a logger.(¨µ¤Ë8Ù¹ñ¨ô1J$aef41c2d-5aad-489b-a45f-595d20e35a3f
+n	java:S106¦"+Replace this use of System.out by a logger.(¨©˜î8Ù¹ñ¨ô1J$43785971-6639-4c15-bce3-51fa2e06801b
+s	java:S106§"+Replace this use of System.out by a logger.(ùÁ£Ïüÿÿÿÿ8Ù¹ñ¨ô1J$e8fe1e02-715d-4034-8553-cf47700dcb6e
+s	java:S106¨"+Replace this use of System.out by a logger.(ŸÏŒÿÿÿÿÿ8Ù¹ñ¨ô1J$811124a0-91dc-4572-944c-48b901ffe911
+s	java:S106©"+Replace this use of System.out by a logger.(Ã®¥¤ÿÿÿÿÿ8Ù¹ñ¨ô1J$e9108f1e-7bcb-4df7-a817-c2da02fa63b3
+n	java:S106°"+Replace this use of System.out by a logger.(Á³ï®8Ù¹ñ¨ô1J$6ff04b74-9cb1-4ab1-a821-60d7fca85458
+n	java:S106±"+Replace this use of System.out by a logger.(Ôæä¶8Ù¹ñ¨ô1J$658b8649-45c8-4730-9fe1-acec0dd13f88

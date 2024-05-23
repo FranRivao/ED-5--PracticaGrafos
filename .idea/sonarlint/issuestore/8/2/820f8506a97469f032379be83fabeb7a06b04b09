@@ -1,0 +1,44 @@
+
+
+java:S1192+"UDefine a constant instead of duplicating this literal "Error, los vertices " 3 times.(ßÊãğıÿÿÿÿ8ŞÑ…‰ñ1J$99544fab-4751-4409-8429-792a647bb4aa
+‹
+java:S3973e"HUse indentation to denote the code conditionally executed by this "for".(¡æ°†8ëÑ…‰ñ1J$22f0a564-01d7-4f4b-847c-e7f53648b3fa
+y
+java:S5261*"1Add explicit curly braces to avoid dangling else.(‚Æº«şÿÿÿÿ8¼Ú…‰ñ1J$bf06e79b-1a4c-4475-bcfd-49ffec276b3f
+r	java:S106*"+Replace this use of System.out by a logger.(‚Æº«şÿÿÿÿ8ÇÚ…‰ñ1J$45930cc2-b91c-4f71-b2a3-5ea6500c0496
+r	java:S106+"+Replace this use of System.out by a logger.(ßÊãğıÿÿÿÿ8ÍÚ…‰ñ1J$585831de-aa1f-47ee-9004-86dbae59ded3
+t
+java:S52614"1Add explicit curly braces to avoid dangling else.(ÕÏ8İÚ…‰ñ1J$2ce39a51-d2ad-4b4a-9330-837d24ac4107
+m	java:S1064"+Replace this use of System.out by a logger.(ÕÏ8èÚ…‰ñ1J$7482e563-3cbc-4890-9503-df39e997d705
+r	java:S1065"+Replace this use of System.out by a logger.(à»¢ïüÿÿÿÿ8õÚ…‰ñ1J$81515afd-ac74-4297-98f9-640a7a1f3593
+r	java:S106>"+Replace this use of System.out by a logger.(â€Áñúÿÿÿÿ8’Û…‰ñ1J$b1071789-1ef8-4d39-9fbe-a9bd74329d02
+•
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(û‚Ğ÷8ÂÛ…‰ñ1J$f11ecd65-88a8-4baf-ba0a-b859425de6de
+•
+java:S3776p"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ã¯óƒ8âÛ…‰ñ1J$d8920871-2e96-4fa5-af93-b6bb3f20fdcd
+r	java:S106r"+Replace this use of System.out by a logger.(ƒÈ¤•ÿÿÿÿÿ8èÛ…‰ñ1J$82808479-c87a-464c-a3c1-d0f68b97a233
+m	java:S106t"+Replace this use of System.out by a logger.(´¾Àí8ùÛ…‰ñ1J$4a91e251-6545-4eec-a274-06a51610e85d
+r	java:S106v"+Replace this use of System.out by a logger.(ÆÔûÜÿÿÿÿÿ8†Ü…‰ñ1J$bd40c488-1913-4378-9f76-0bb784453da6
+m	java:S106y"+Replace this use of System.out by a logger.(×•œ²8”Ü…‰ñ1J$7421a8c2-b1c2-40ac-a58c-f9484e946029
+m	java:S106|"+Replace this use of System.out by a logger.(·¥ÒŸ8Ü…‰ñ1J$3857d996-7651-4c6d-b1b7-f34d18119021
+m	java:S106}"+Replace this use of System.out by a logger.(„êö·8«Ü…‰ñ1J$db529f83-e17c-4287-b983-b32be7b9f891
+m	java:S106"+Replace this use of System.out by a logger.(†œÊª8»Ü…‰ñ1J$6e826f08-14a9-459b-b346-b2ce5fe47325
+n	java:S106‚"+Replace this use of System.out by a logger.(òŞ…ø8ĞÜ…‰ñ1J$b6a42892-4d54-4f18-bbac-b8a6c97edf0d
+n	java:S106„"+Replace this use of System.out by a logger.(ìğ£8ÖÜ…‰ñ1J$b62e8ede-40b3-4363-acdc-4c8cd198061c
+s	java:S106‡"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÙÜ…‰ñ1J$0b046840-35d4-405f-87b6-42379bca533f
+s	java:S106"+Replace this use of System.out by a logger.(ƒÈ¤•ÿÿÿÿÿ8âÜ…‰ñ1J$e180bf9d-a1ab-4fc0-aa6f-72088679b34b
+n	java:S106"+Replace this use of System.out by a logger.(´¾Àí8ëÜ…‰ñ1J$569c5418-146a-463e-bee0-2dd5f06e16f2
+n	java:S106‘"+Replace this use of System.out by a logger.(ÒøÀ8ïÜ…‰ñ1J$c676bb2c-9ac0-4c9e-a58a-9891cd974d98
+s	java:S106”"+Replace this use of System.out by a logger.(¥ä­Ğüÿÿÿÿ8ùÜ…‰ñ1J$a77ec65b-69a0-4dc1-b47d-c256cb9675dd
+s	java:S106•"+Replace this use of System.out by a logger.(óêØŠıÿÿÿÿ8şÜ…‰ñ1J$32578347-0d4f-4cb7-87de-7a017e59374c
+s	java:S106—"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ƒİ…‰ñ1J$332bc426-80f0-4a3f-b61e-15f3faca027b
+s	java:S106¤"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8™İ…‰ñ1J$9766f3c7-e6bc-44ef-9eb0-a8a9b837676e
+	java:S125«"<This block of commented-out lines of code should be removed.(úİÏï8°ëç§ô1J$9ae4d9ef-c620-4fe5-8258-bb815e9abbf9
+Y	java:S125µ"<This block of commented-out lines of code should be removed.(úİÏï8½¸é§ô1
+n	java:S106à"+Replace this use of System.out by a logger.(şä«â8ŠŞ…‰ñ1J$ddfd5b6a-5834-4ec0-8749-f81b1c189789
+s	java:S106é"+Replace this use of System.out by a logger.(¨ê©£ùÿÿÿÿ8ÙÃ§ô1J$acb498a8-6983-4771-a48a-44a4139d6b8e
+s	java:S106ù"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8æ×Ë§ô1J$35c26cad-3257-4a89-822a-7623476be553
+h
+java:S1659„"Declare "i" on a separate line.(ÎÇ©úÿÿÿÿ8›Ş…‰ñ1J$0e7c951c-a8c9-49d4-a1f6-fd69cd8efeb7
+ˆ
+java:S1659˜"EDeclare "gradoEnt" and all following declarations on a separate line.(º…ƒ8­Ş…‰ñ1J$43c26a5a-27d4-4650-912a-c103e9423981
