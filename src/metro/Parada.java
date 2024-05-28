@@ -47,5 +47,5 @@ public class Parada {
             lineas += lineasArr[i] + ", ";
         } lineas += lineasArr[numLineas-1];
 
-        return String.format("Parada{%s Lineas: [%s], %d}", getNombre(), lineas, getNumLineas());}
+        return String.format("Parada{%s Líneas: [%s], %d}", getNombre(), lineas, getNumLineas());}
 }

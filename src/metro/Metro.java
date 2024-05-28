@@ -129,7 +129,7 @@ public class Metro {
         for (int i = 0; i < numParadas; i++) {
             System.out.print(i + ": " + paradas[i].getNombre() + " conecta con: ");
             for (int f = 0; f < conexiones.get(i).size(); f++) {
-                System.out.print(conexiones.get(i).get(f).getNombre() + "(" + Arrays.toString(lineasComunes(paradas[i], conexiones.get(i).get(f)).toArray()) + ") ");
+                System.out.print(conexiones.get(i).get(f).getNombre() + " (" + Arrays.toString(lineasComunes(paradas[i], conexiones.get(i).get(f)).toArray()) + ") ");
             }
             System.out.println();
         }
